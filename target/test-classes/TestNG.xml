@@ -1,0 +1,9 @@
+<suite name="test">
+<test name="TestHomePage">
+<classes>
+<class name="com.simplilearn.base.BaseTest"></class>
+<class name="com.simplilearn.testpages.HomePageTest"></class>
+
+</classes>
+</test>
+</suite>
